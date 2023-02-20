@@ -10,3 +10,4 @@ Rencana Konten Alyanation
   c. freetalk 
 - Daily CSS in 100 days
 - DailyUI in 100 days
+- ASMR Typing
