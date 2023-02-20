@@ -1,0 +1,10 @@
+Rencana Konten Alyanation
+
+- Livestreaming 
+  a. coding
+    - freecodecamp
+    - front end mentor
+  b. gaming
+  c. freetalk 
+- Daily CSS in 100 days
+- DailyUI in 100 days
