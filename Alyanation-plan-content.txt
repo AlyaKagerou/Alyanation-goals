@@ -11,4 +11,4 @@ Rencana Konten Alyanation
     - QnA spesials
 - Daily CSS in 100 days
 - DailyUI in 100 days
-- Setup Tour
+- ASMR Typing
