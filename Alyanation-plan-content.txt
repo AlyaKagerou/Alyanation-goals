@@ -5,6 +5,8 @@ Rencana Konten Alyanation
     - freecodecamp
     - front end mentor
   b. gaming
+    - solo player
+    - play with viewers
   c. freetalk 
 - Daily CSS in 100 days
 - DailyUI in 100 days
