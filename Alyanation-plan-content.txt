@@ -9,6 +9,8 @@ Rencana Konten Alyanation
     - play with viewers
   c. freetalk 
     - QnA spesials
+    - Meme Review
+    - Coba fitur Mediashare
 - Daily CSS in 100 days
 - DailyUI in 100 days
 - ASMR Typing
