@@ -14,6 +14,7 @@ Repository untuk menyimpan goals Alyanation kedepannya *ceritanya aja :v
   - a. coding
     - [ ] freecodecamp
     - [ ] Slicing dari front end mentor
+    - [ ] Slicing dari Code Design
   - b. gaming
     - [ ] solo player
     - [ ] play with viewers
