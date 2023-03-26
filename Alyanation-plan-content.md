@@ -3,7 +3,7 @@ Rencana Konten Alyanation
 - Livestreaming 
   a. coding
     - freecodecamp
-    - front end mentor
+    - Slicing dari front end mentor
   b. gaming
     - solo player
     - play with viewers
@@ -13,4 +13,5 @@ Rencana Konten Alyanation
     - Coba fitur Mediashare
 - Daily CSS in 100 days
 - DailyUI in 100 days
-- ASMR Typing
+- ASMR Typing + Slicing
+- DailyUI to Code Playlist
