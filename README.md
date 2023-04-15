@@ -1,18 +1,17 @@
 # Alyanation-goals
-Repository untuk menyimpan goals Alyanation kedepannya *ceritanya aja :v
+Repository untuk menyimpan goals Alyanation kedepannya *ceritanya aja :v siapa tau tiba-tiba jadi kenyataan hehe
 
 ## ALYANATION GOALS
 
 - [ ] membuat forum diskusi di discord (RUMOR ygy.. soalnya saya masih mempertimbangkan apakah bakal terealisasikan atau tidak)
 - [ ] 100k subscriber
 - [ ] membuat merch shop (RUMOR)
-- [ ] kolaborasi ama vtuber favorit (BOHONG)
+- [ ] MEMBERSHIP youtube
 
 ## Rencana Konten Alyanation
 
 - [ ] Livestreaming 
   - a. coding
-    - [ ] freecodecamp
     - [ ] Slicing dari front end mentor
     - [ ] Slicing dari Code Design
   - b. gaming
