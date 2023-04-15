@@ -14,7 +14,7 @@ Repository untuk menyimpan goals Alyanation kedepannya *ceritanya aja :v siapa t
   - a. coding
     - [ ] Slicing dari front end mentor
     - [ ] Slicing dari Code Design
-  - b. gaming
+  - b. gaming (untuk gaming dan hal random lainnya, rencananya akan ada di channel khusus)
     - [ ] solo player
     - [ ] play with viewers
   - c. freetalk 
