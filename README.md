@@ -1,10 +1,10 @@
 # Alyanation-goals
-Repository untuk menyimpan goals Alyanation kedepannya *ceritanya aja :v siapa tau tiba-tiba jadi kenyataan hehe
+Repository untuk menyimpan goals Alyanation kedepannya *ceritanya aja :v siapa tau tiba-tiba jadi kenyataan hehe*
 
 ## ALYANATION GOALS
 
 - [ ] membuat forum diskusi di discord (RUMOR ygy.. soalnya saya masih mempertimbangkan apakah bakal terealisasikan atau tidak)
-- [ ] 100k subscriber
+- [ ] 1k subscriber
 - [ ] membuat merch shop (RUMOR)
 - [ ] MEMBERSHIP youtube
 
