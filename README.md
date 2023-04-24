@@ -22,6 +22,6 @@ Repository untuk menyimpan goals Alyanation kedepannya *ceritanya aja :v siapa t
     - [ ] Meme Review
     - [ ] Coba fitur Mediashare
 - [ ] Daily CSS in 100 days (Work In Progress)
-- [ ] DailyUI in 100 days
+- ✔ DailyUI in 100 days
 - [ ] ASMR Typing + Slicing
 - [ ] DailyUI to Code Playlist
